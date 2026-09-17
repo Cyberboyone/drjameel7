@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"/>
     <application
-        android:label="Dr Jameel - Mahangar Al-Qur'ani & Tasirin Zunubai Akan Al-Ummah & Majlisin Al-Qur'ani (Part 3)"
+        android:label="Dr Jameel - Mahangar Al-Qur'ani &amp; Tasirin Zunubai Akan Al-Ummah &amp; Majlisin Al-Qur'ani (Part 3)"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
